@@ -67,6 +67,7 @@ Key areas the team are interested in developing include localizing the mobile ap
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Liquid-Prep" />
 </a>
 
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, areas where we'd like to see community contributions, and the process for submitting pull requests to the project.
